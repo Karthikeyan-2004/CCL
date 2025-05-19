@@ -93,3 +93,10 @@
 # Left Pin	5V (Red)
 # Middle Pin	A0 (Analog In)
 # Right Pin	GND (Black)
+
+
+#sudo adduser username
+#su - adminusername
+#sudo usermod -aG sudo username
+#su - username
+#sudo apt update
